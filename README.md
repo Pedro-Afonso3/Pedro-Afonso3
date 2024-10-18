@@ -1,5 +1,9 @@
 ### Olá. Eu sou Pedro Afonso 👋✌️
 
+## Sobre mim:
+
+Me chamo Pedro Afonso, sou entusiasta em tecnologia, desenvolvedor com foco em backend. Experiência com Python, Java, MySql, JavaScript. Sempre em busca de novos desafios com foco em resolver problemas, gosto de pensar que cada bug é uma oportunidade de adquirir mais conhecimentos e estar em boas equipes é fundamental para o crescimento do desenvolvedor.
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-afonso-a113191b2)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroafs1/)
 
@@ -24,8 +28,3 @@
 <img align="center" alt='JavaScript' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 
 </div><br/>
-
-## Sobre mim:
-
-Me chamo Pedro Afonso, sou entusiasta em tecnologia, desenvolvedor com foco em backend. Experiência com Python, Java, MySql, JavaScript. Sempre em busca de novos desafios com foco em resolver problemas, gosto de pensar que cada bug é uma oportunidade de adquirir mais conhecimentos e estar em boas equipes é fundamental para o crescimento do desenvolvedor.
-
